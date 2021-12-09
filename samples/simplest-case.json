@@ -4,5 +4,11 @@
     "author": "A8720A2C980F",
     "summary": "One must clean his shoes before entering the house",
     "timestamp": 327637254860
+  },
+  {
+    "type": "vote",
+    "voter": "0A2C980F2865",
+    "proposition": 327637254860,
+    "timestamp": 327637254862
   }
 ]
